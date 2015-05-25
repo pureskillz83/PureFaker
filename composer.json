@@ -1,0 +1,21 @@
+{
+  "name": "pureskillz83/PureFaker",
+  "description": "Simple library for generating fake data",
+  "license": "MIT",
+  "keywords": ["data generation", "fake data", "lorem ipsum"],
+  "authors": [
+    {
+      "name": "Mal Boston",
+      "email": "mal.boston1983@gmail.com"
+    }
+  ],
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "4.0.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "pureskillz83\\PureFaker\\": "src"
+    }
+  }
+}
